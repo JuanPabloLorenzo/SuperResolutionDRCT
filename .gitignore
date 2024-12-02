@@ -1,0 +1,15 @@
+# Data
+downloaded_images/
+cropped_images/
+data/
+scraper.py
+
+# Python cache
+__pycache__/
+
+# Models and experiments
+*.pkl
+*.pth
+
+# Notebook to test
+try_models.ipynb
